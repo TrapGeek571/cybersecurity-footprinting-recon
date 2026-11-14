@@ -29,4 +29,4 @@ Cybersecurity & Ethical Hacking Project | Networkwalks
 Footprinting is passive recon. Attackers gather all this WITHOUT touching the target - that's why defenders must minimize what they expose publicly.
 
 ## Screenshots
-See /screenshots folder for Maltego graph, theHarvester output & Zenmap topology.
+See /assets folder for Maltego graph, theHarvester output & Zenmap topology.
