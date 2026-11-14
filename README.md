@@ -30,3 +30,6 @@ Footprinting is passive recon. Attackers gather all this WITHOUT touching the ta
 
 ## Screenshots
 See /assets folder for Maltego graph, theHarvester output & Zenmap topology.
+
+## Penetration Testing Report
+[View the penetration testing report (PDF)](./PENETRATION%20TESTING%20REPORT_Alvin-Supeeti.pdf)
